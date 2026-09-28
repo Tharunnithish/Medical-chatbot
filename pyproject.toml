@@ -1,0 +1,2 @@
+[tool.vercel]
+entrypoint = "Medical-chatbot.app:app"
