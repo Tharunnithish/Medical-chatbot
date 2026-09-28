@@ -5,3 +5,10 @@ python-dotenv
 faiss-cpu
 numpy
 pandas
+Flask
+langchain
+langchain-core
+langchain-pinecone
+langchain-google-genai
+pinecone-client
+python-dotenv
